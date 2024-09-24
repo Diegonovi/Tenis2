@@ -3,7 +3,6 @@ package org.example
 import org.example.cache.Cache
 import org.example.config.AppConfig
 import org.example.database.DatabaseManager
-import org.example.tenist.models.Tenist
 import org.example.tenist.repository.TenistRepositoryImpl
 import org.example.tenist.service.database.TenistServiceImpl
 import org.example.tenist.service.storage.TenistStorageImpl
